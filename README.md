@@ -4,6 +4,7 @@ Come creare un backup su WordPress con Duplicator
 #### Indice
 [Installazione plugin](#duplicator)  
 [Creazione di un duplicato](#procedura)
+[Ripristinare il backup](#ripristinare)
 
 <a name="duplicator"></a>
 ## Installazione del Plugin
