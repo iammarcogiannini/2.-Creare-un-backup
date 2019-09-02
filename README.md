@@ -5,13 +5,11 @@ Come creare un backup su WordPress con Duplicator
 [Installazione plugin](#duplicator)  
 [Creazione di un duplicato](#procedura)
 
-<a name="duplicator"/>
 ## Installazione del Plugin
 1. Cliccare nella colonna di sinistra di WordPress su `Plugins` e dopo `Aggiungi nuovo`.
 2. Cercare `Duplicator` e attendere che la ricerca sia conclusa.
 3. Premere su `Installa ora` dopodiché `attiva`.
 
-<a name="procedura"/>
 ## Creazione di un duplicato
 1. Cliccare nella colonna di sinistra di WordPress su `Duplicator` e in alto a destra premere su `Crea Nuovo`.
 2. Vi si aprirà una procedura guidata con degli steps.
