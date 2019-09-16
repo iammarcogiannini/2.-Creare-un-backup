@@ -26,9 +26,9 @@ Come creare un backup su WordPress con Duplicator
 <a name="ripristinare"></a>
 ## Ripristinare il duplicato
 1. Posizioniamoci nella cartella del nostro sito (se abbiamo il sito installato in locale la cartella sarà `htdocs` [clicca qui per sapere dove trovarla](#htdocs).
-2. <a name="back-to-chapter-4"></a>Cancellate il file `wp-config.php`, se presente.
-3. Copiare e incollare i due file scaricati nel capitolo 2 (**archivio del sito in formato zip** e il file `installer.php`) nella cartella del nostro sito. 
-4. *Opzionale* se il file `installer` ha come suffisso un numero aggiunto dal sistema operativo (esempio: `installer (1).php`) rinominatelo rimuovendo il suffisso (lasciando quindi `installer.php`).
+2. Copiare e incollare i due file scaricati nel capitolo 2 (**archivio del sito in formato zip** e il file `installer.php`) nella cartella del nostro sito. 
+3. *Opzionale* se il file `installer` ha come suffisso un numero aggiunto dal sistema operativo (esempio: `installer (1).php`) rinominatelo rimuovendo il suffisso (lasciando quindi `installer.php`).
+4. <a name="back-to-chapter-4"></a>Cancellate il file `wp-config.php`, se presente.
 5. Recatevi, con il vostro browser preferito, sulla pagina `localhost/nome_della_cartella_del_sito/installer.php`. Se la pagina carica correttamente vuol dire che avete fatto tutto bene, in caso contrario controllate i passi precedenti.
 
 ## Processo di ripristino del duplicato
